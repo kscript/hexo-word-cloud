@@ -9,11 +9,11 @@
   </title>
   <!-- style -->
   <script src='<!-- echarts -->'></script>
-  <script src='<!-- main -->'></script>
+  <script src='<!-- wordcloud -->'></script>
 </head>
 <body>
   <!-- element -->
-  <!-- tagData -->
+  <!-- tagdata -->
   <!-- script -->
 </body>
 </html>

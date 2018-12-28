@@ -4,13 +4,14 @@ var _locals;
 var pathinfo;
 
 var config = hexo.config.wordCloud = merge({
-  output: 'tags/index.html',
-  title: '标签云',
+  output: path.join(hexo.config.tag_dir || 'tags','/index.html'),
+  title: '',
   script: '',
   style: '',
   template: '',
   echarts: '',
   main: '',
+  tagdata: null,
   width: 1000,
   height: 520,
 }, hexo.config.wordCloud);
