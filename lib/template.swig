@@ -8,11 +8,12 @@
     <!-- title -->
   </title>
   <!-- style -->
+  <script src='<!-- echarts -->'></script>
+  <script src='<!-- main -->'></script>
 </head>
 <body>
-  <div class="word-cloud">
-    <!-- tag -->
-  </div>
+  <!-- element -->
+  <!-- tagData -->
   <!-- script -->
 </body>
 </html>

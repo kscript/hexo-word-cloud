@@ -1,22 +1,55 @@
 {
-  "name": "hexo-word-cloud",
-  "version": "1.0.2",
+  "_from": "hexo-word-cloud@1.0.3",
+  "_id": "hexo-word-cloud@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-IzVquGHsBnHKKX89H4M/LRs7pdu1tpjxsnRGn+LCHUDkHO5J3KBFyjPQ85beJs+gY4Gp+QWVH+2hHyD3F1S98Q==",
+  "_location": "/hexo-word-cloud",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "hexo-word-cloud@1.0.3",
+    "name": "hexo-word-cloud",
+    "escapedName": "hexo-word-cloud",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://192.168.1.28:4873/hexo-word-cloud/-/hexo-word-cloud-1.0.3.tgz",
+  "_shasum": "8b0bbcaf84fd342b8233d74f75cbba9968ed32b8",
+  "_spec": "hexo-word-cloud@1.0.3",
+  "_where": "D:\\web\\hexo",
+  "author": {
+    "name": "luren"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "utils-merge": "^1.0.1"
+  },
+  "deprecated": false,
   "description": "a hexo plugins",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "hexo": "^3.8.0"
   },
   "keywords": [
     "hexo",
     "cloud"
   ],
-  "author": "luren",
-  "license": "MIT",
-  "devDependencies": {
-    "hexo": "^3.8.0"
+  "main": "index.js",
+  "name": "hexo-word-cloud",
+  "peerDependencies": {
+    "hexo": "^3.8.0",
+    "echarts": "^4.2.0-rc.2",
+    "echarts-wordcloud": "^1.1.3"
   },
-  "dependencies": {
-    "path": "^0.12.7",
-    "utils-merge": "^1.0.1"
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
 }
