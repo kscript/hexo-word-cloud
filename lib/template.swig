@@ -5,15 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>
-    <!-- title -->
+  <!-- title -->
   </title>
   <!-- style -->
   <script src='<!-- echarts -->'></script>
   <script src='<!-- wordcloud -->'></script>
 </head>
 <body>
-  <!-- element -->
-  <!-- tagdata -->
-  <!-- script -->
+<!-- element -->
+<!-- tagdata -->
+<!-- script -->
 </body>
 </html>

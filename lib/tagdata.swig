@@ -1,3 +1,3 @@
 <script>
-  var tagData = <!-- tagdata-->;
+  var tagData = <!-- tagdata -->;
 </script>
