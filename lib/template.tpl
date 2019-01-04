@@ -8,10 +8,10 @@
   <!-- title -->
   </title>
   <!-- style -->
-  <script src='<!-- echarts -->'></script>
-  <script src='<!-- wordcloud -->'></script>
 </head>
 <body>
+<script src='<!-- echarts -->'></script>
+<script src='<!-- wordcloud -->'></script>
 <!-- element -->
 <!-- tagdata -->
 <!-- script -->

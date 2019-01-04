@@ -1,6 +1,6 @@
 {
   "name": "hexo-word-cloud",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "a hexo plugins",
   "main": "index.js",
   "author": {

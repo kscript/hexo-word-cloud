@@ -36,10 +36,10 @@ wordCloud:
   template: 
 
   # 标签云容器
-  element: themes/even/plugins/cloud/element.swig
+  element: themes/even/plugins/cloud/element.tpl
 
   # 标签云的样式 / 逻辑
-  style: themes/even/plugins/cloud/style.swig
+  style: themes/even/plugins/cloud/style.tpl
   script: 
 
   # 标签云数据(JSON String)
